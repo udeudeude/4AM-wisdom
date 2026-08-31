@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Wisdom Watch Test//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wisdom Watch Test
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1225-1@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T122500
+DTEND;TZID=America/New_York:20260831T122900
+SUMMARY:Attend to the living pattern.
+DESCRIPTION:Source: Christopher Alexander\nIdea: wholeness is found by strengthening relationships among parts\, not by optimizing isolated pieces.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1230-2@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T123000
+DTEND;TZID=America/New_York:20260831T123400
+SUMMARY:The medium reshapes the message.
+DESCRIPTION:Source: Marshall McLuhan\nIdea: a medium changes the scale\, pace\, and pattern of human affairs before we even consider its content.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1235-3@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T123500
+DTEND;TZID=America/New_York:20260831T123900
+SUMMARY:Silence is not empty.
+DESCRIPTION:Source: John Cage\nIdea: what seems like silence is already full of sound\, contingency\, and attention.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1240-4@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T124000
+DTEND;TZID=America/New_York:20260831T124400
+SUMMARY:Become what you are becoming.
+DESCRIPTION:Source: Carl Jung\nIdea: individuation is not self-invention but the gradual integration of what the psyche already contains.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1245-5@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T124500
+DTEND;TZID=America/New_York:20260831T124900
+SUMMARY:Play has no final score.
+DESCRIPTION:Source: James P. Carse\nIdea: finite games aim at winning\; infinite games aim at continuing the play.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1250-6@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T125000
+DTEND;TZID=America/New_York:20260831T125400
+SUMMARY:Faith begins beyond control.
+DESCRIPTION:Source: Søren Kierkegaard\nIdea: genuine commitment begins where certainty and calculation can no longer do the work for you.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1255-7@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T125500
+DTEND;TZID=America/New_York:20260831T125900
+SUMMARY:Make room for the impossible.
+DESCRIPTION:Source: Jürgen Moltmann\nIdea: hope is not optimism about what is likely\; it opens the present toward possibilities not yet visible.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1300-8@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T130000
+DTEND;TZID=America/New_York:20260831T130400
+SUMMARY:Form should invite life.
+DESCRIPTION:Source: Buckminster Fuller\nIdea: design at its best reorganizes constraints so that more can happen with less.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1305-9@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T130500
+DTEND;TZID=America/New_York:20260831T130900
+SUMMARY:Grace works through the grotesque.
+DESCRIPTION:Source: Flannery O’Connor\nIdea: distortion and violence in a story can expose moral reality more sharply than polite realism.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1310-10@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T131000
+DTEND;TZID=America/New_York:20260831T131400
+SUMMARY:The hidden life is still life.
+DESCRIPTION:Source: Julian of Norwich\nIdea: what is obscure\, wounded\, or unfinished may still belong within a larger order of love.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wisdom-test-20260831T1315-11@openai.local
+DTSTAMP:20260831T160100Z
+DTSTART;TZID=America/New_York:20260831T131500
+DTEND;TZID=America/New_York:20260831T131900
+SUMMARY:Practice seeing\, not naming.
+DESCRIPTION:Source: Dante Gabriel Rossetti\nIdea: sustained attention can recover strangeness and presence from things dulled by familiarity.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
