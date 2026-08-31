@@ -1,17 +1,197 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OpenAI//Wisdom Watch Calibration//EN
+PRODID:-//4AM Wisdom//Three Week Trial//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Wisdom Watch Test
+X-WR-CALNAME:4AM Wisdom
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:wisdom-cal-1311@4am-wisdom
-DTSTAMP:20260831T164000Z
-DTSTART;TZID=America/New_York:20260831T131100
-DTEND;TZID=America/New_York:20260831T131200
-SUMMARY:ABCDEFGHIJKLMNOPQRSTUVWXYZ
-DESCRIPTION:Calibration title: 26 letters, no spaces or punctuation.
+UID:20260901@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260901T011100
+DTEND;TZID=America/New_York:20260901T011200
+SUMMARY:Silence is not empty
+DESCRIPTION:John Cage\nIdea: Silence is not the absence of experience. Attention reveals events we habitually exclude as noise or nothing.\nContext: Cage's work on silence and listening; especially 4′33″ and his writings on sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260902T011100
+DTEND;TZID=America/New_York:20260902T011200
+SUMMARY:Can a game stay open?
+DESCRIPTION:James P. Carse\nIdea: A finite game is played to conclude in victory. An infinite game is played so that play can continue. Ask what your present activity is trying to preserve: victory or possibility.\nSource: Finite and Infinite Games.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260903T011100
+DTEND;TZID=America/New_York:20260903T011200
+SUMMARY:Wholeness has degrees
+DESCRIPTION:Christopher Alexander\nIdea: Places and things are not simply whole or fragmented. Their structure can intensify or diminish the life of the larger field around them.\nContext: Alexander's later work on centers and degrees of life; The Nature of Order.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260904T011100
+DTEND;TZID=America/New_York:20260904T011200
+SUMMARY:Hope contradicts now
+DESCRIPTION:Jürgen Moltmann\nIdea: Hope is not merely confidence that present trends will turn out well. It can contradict the apparent finality of the present by orienting life toward what is promised but not yet actual.\nContext: Theology of Hope.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260905@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260905T011100
+DTEND;TZID=America/New_York:20260905T011200
+SUMMARY:The margin may be center
+DESCRIPTION:Flannery O’Connor\nIdea: The grotesque can disclose realities that ordinary proportion conceals. Distortion is sometimes a way of making an invisible moral structure visible.\nContext: O'Connor's fiction and essays on the grotesque and the Christian novelist.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260906@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260906T011100
+DTEND;TZID=America/New_York:20260906T011200
+SUMMARY:What resists your map?
+DESCRIPTION:Marshall McLuhan\nIdea: We notice the content carried by a medium and overlook the environment the medium creates. Look for the part of experience your conceptual map makes difficult to perceive.\nContext: McLuhan's distinction between media content and the transformations produced by media themselves.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260907T011100
+DTEND;TZID=America/New_York:20260907T011200
+SUMMARY:Become singular
+DESCRIPTION:Søren Kierkegaard\nIdea: A crowd can relieve the individual of responsibility. Becoming a self requires standing personally before the demand one recognizes as true rather than borrowing conviction from numbers.\nContext: Kierkegaard's writings on 'the single individual' and the crowd.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260908T011100
+DTEND;TZID=America/New_York:20260908T011200
+SUMMARY:The wound can be a door
+DESCRIPTION:Carl Jung\nIdea: What the conscious personality rejects may return as symptom, projection, or disturbance. The troublesome material can become an entrance into a larger self if it is encountered rather than merely expelled.\nContext: Jung's work on shadow and individuation.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260909T011100
+DTEND;TZID=America/New_York:20260909T011200
+SUMMARY:Usefulness has a shadow
+DESCRIPTION:George MacDonald\nIdea: A thing need not justify itself by immediate utility. Imagination, story, play, and beauty may enlarge the person who later decides what counts as useful.\nContext: MacDonald's essays on imagination and fairy tales.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260910T011100
+DTEND;TZID=America/New_York:20260910T011200
+SUMMARY:Less can make more possible
+DESCRIPTION:Buckminster Fuller\nIdea: Good design does not merely add resources. It can reorganize relationships so that less matter and energy support greater capability.\nContext: Fuller's idea of doing more with less and ephemeralization.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260911T011100
+DTEND;TZID=America/New_York:20260911T011200
+SUMMARY:Knowing can unmake wonder
+DESCRIPTION:Gregory of Nyssa\nIdea: In the divine life, genuine knowledge does not terminate desire. Encounter enlarges the capacity for further encounter; fulfillment can deepen rather than extinguish longing.\nContext: Gregory's account of endless progress, often called epektasis, especially in The Life of Moses.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260912T011100
+DTEND;TZID=America/New_York:20260912T011200
+SUMMARY:Remove one certainty
+DESCRIPTION:Pseudo-Dionysius the Areopagite\nIdea: Negation can be intellectually productive. To say what ultimate reality is not can loosen concepts that have quietly become substitutes for what they attempt to describe.\nContext: The Mystical Theology and the apophatic tradition.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260913@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260913T011100
+DTEND;TZID=America/New_York:20260913T011200
+SUMMARY:What owns your attention?
+DESCRIPTION:Evagrius Ponticus\nIdea: A recurring thought is not merely something you think. Repetition can give it a kind of agency over attention and action. Observe the thought's pattern before arguing with its content.\nContext: Evagrius's analysis of logismoi, recurring tempting or obsessive thought-patterns.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260914@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260914T011100
+DTEND;TZID=America/New_York:20260914T011200
+SUMMARY:A cell can teach
+DESCRIPTION:Desert Fathers, especially Abba Moses and the sayings tradition\nIdea: Remaining in one place can expose evasions that movement disguises. Constraint sometimes becomes an instrument of perception.\nContext: The Sayings of the Desert Fathers repeatedly associate staying in one's cell with learning and transformation.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260915T011100
+DTEND;TZID=America/New_York:20260915T011200
+SUMMARY:Love alters perception
+DESCRIPTION:Simone Weil\nIdea: Attention is not neutral inspection. The quality of attention can make another person's reality perceptible without immediately converting that person into a project, category, or instrument.\nContext: Weil's writings on attention, affliction, and love of neighbor.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260916T011100
+DTEND;TZID=America/New_York:20260916T011200
+SUMMARY:The ordinary has depth
+DESCRIPTION:Julian of Norwich\nIdea: A small, vulnerable thing can disclose an unexpectedly large metaphysical horizon. Scale and significance need not correspond.\nContext: Julian's vision of a small object 'the quantity of a hazelnut' held in her hand, used to contemplate creation and divine love.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260917T011100
+DTEND;TZID=America/New_York:20260917T011200
+SUMMARY:Unknow what you know
+DESCRIPTION:Meister Eckhart\nIdea: Spiritual and intellectual possession can become an obstacle. Detachment includes relinquishing cherished images of truth when those images prevent encounter with what exceeds them.\nContext: Eckhart's sermons on detachment, poverty of spirit, and knowing God beyond images.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260918T011100
+DTEND;TZID=America/New_York:20260918T011200
+SUMMARY:Opposites can coincide
+DESCRIPTION:Nicholas of Cusa\nIdea: At the limits of ordinary comparison, oppositions generated by finite concepts may cease to behave as oppositions. Contradiction can sometimes mark the boundary of a conceptual instrument rather than the boundary of reality.\nContext: Cusa's 'coincidence of opposites' and learned ignorance.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260919T011100
+DTEND;TZID=America/New_York:20260919T011200
+SUMMARY:Beauty can demand labor
+DESCRIPTION:Dante Gabriel Rossetti\nIdea: Beauty need not be an escape from difficult making. The finished image can conceal revision, discipline, failure, and return; enchantment and workmanship are not opposites.\nContext: Rossetti's intertwined practice of poetry, painting, revision, and reworking.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260920@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260920T011100
+DTEND;TZID=America/New_York:20260920T011200
+SUMMARY:Renunciation makes room
+DESCRIPTION:Christina Rossetti\nIdea: Refusal is not always mere deprivation. Giving something up can create a form of interior space in which another allegiance, perception, or desire becomes possible.\nContext: A recurring structure in Rossetti's devotional poetry, where desire, restraint, loss, and transformed desire interact.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260921@4am-wisdom
+DTSTAMP:20260831T170000Z
+DTSTART;TZID=America/New_York:20260921T011100
+DTEND;TZID=America/New_York:20260921T011200
+SUMMARY:Is the joke still a joke?
+DESCRIPTION:Andy Kaufman\nIdea: A performance can destabilize the boundary between event and representation. When the audience cannot locate the frame, its own expectations become part of the material.\nContext: Kaufman's deliberate blurring of character, prank, performance, sincerity, and audience complicity.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
